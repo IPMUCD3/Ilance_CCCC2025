@@ -1,0 +1,23 @@
+xtick.labelsize : 16
+ytick.labelsize : 16
+xtick.direction : in
+ytick.direction : in
+axes.linewidth : 2.0
+font.family : DejaVu Sans
+font.size : 20
+legend.fontsize: 14
+mathtext.fontset : cm
+mathtext.rm : serif
+xtick.top : True
+ytick.right : True
+errorbar.capsize : 3
+xtick.major.size : 5
+xtick.major.width : 1.5
+xtick.minor.size : 3
+xtick.minor.width : 1.5
+ytick.major.size : 5
+ytick.major.width : 1.5
+ytick.minor.size : 3
+ytick.minor.width : 1.5
+#axes.prop_cycle : cycler('color',['440154','482878','3e4989','31688e','26828e','1f9e89','35b779','6ece58','b5de2b','fde725'])
+axes.prop_cycle : cycler(color=['silver', 'gold', 'darkorange','chartreuse','deeppink','crimson','purple','royalblue','forestgreen','olive'])
