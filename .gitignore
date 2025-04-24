@@ -1,0 +1,18 @@
+# Ignore swap files
+*~
+.DS_Store
+
+**.ipynb_checkpoints/
+**.pyc
+**.[oa]
+**.out
+
+**.bbl
+**.blg
+**.aux
+**.texpadtmp
+**.fls
+**.fdb_latexmk
+**.toc
+**.log
+**.gz
